@@ -2,13 +2,14 @@
 
 import 'package:academy_app/models/common_functions.dart';
 import 'package:academy_app/providers/shared_pref_helper.dart';
+import 'package:share_plus/share_plus.dart';
 import 'package:academy_app/widgets/custom_text.dart';
 import 'package:academy_app/widgets/lesson_list_item.dart';
 import 'package:academy_app/widgets/star_display_widget.dart';
 import 'package:academy_app/widgets/tab_view_details.dart';
 import 'package:academy_app/widgets/util.dart';
 import 'package:html_unescape/html_unescape.dart';
-import 'package:share/share.dart';
+
 import 'package:url_launcher/url_launcher.dart';
 import '../constants.dart';
 import '../widgets/app_bar_two.dart';

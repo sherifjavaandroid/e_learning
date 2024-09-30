@@ -22,7 +22,7 @@ import 'package:academy_app/widgets/app_bar_two.dart';
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/percent_indicator.dart';
 import 'package:provider/provider.dart';
-import 'package:share/share.dart';
+import 'package:share_plus/share_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../widgets/from_network.dart';
 import '../widgets/from_vimeo_id.dart';
