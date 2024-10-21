@@ -1,16 +1,32 @@
-# e_learning
+# Academy - Course Based Learning Management System
 
-A new Flutter project.
+Academy is a comprehensive learning management system (LMS) that allows you to create and manage your own e-learning platform. This system is perfect for educators who want to create online courses with minimal effort and maximum engagement.
+baclend 
+https://terabox.com/s/13imgL5SOJnoBHRRJWkzHoA
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Academy Homepage](https://camo.envatousercontent.com/b7071e6f3c4e365735bcdaea18ba81f744502736/68747470733a2f2f70726f64756374706167652e63726561746976656974656d2e636f6d2f61636164656d792f313732353336383839342d333237382e6a706567)
 
-A few resources to get you started if this is your first Flutter project:
+![Course Introduction](https://camo.envatousercontent.com/a2e100530467603ce16c7bfb4514b098c965e4fb/68747470733a2f2f70726f64756374706167652e63726561746976656974656d2e636f6d2f61636164656d792f3030312e696e74726f2e6a7067)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo & Purchase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Live Demo](https://codecanyon.net/item/academy-course-based-learning-management-system/22703468)
+- [Purchase on CodeCanyon](https://codecanyon.net/item/academy-course-based-learning-management-system/22703468)
+
+## Installation
+
+Please follow the detailed installation instructions included with your purchase to set up Academy on your server.
+
+## Usage
+
+After installation, you can start creating courses immediately. Refer to the included user guide to learn how to maximize the features of Academy.
+
+## Support
+
+For support, feature requests, or any other inquiries, please visit the support section on our CodeCanyon page.
+
+## License
+
+This project is licensed under the terms of the license purchased from CodeCanyon.
